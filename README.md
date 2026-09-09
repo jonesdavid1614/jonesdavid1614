@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm David (`@jonesdavid1614`) 👋
 
-<!--
-**jonesdavid1614/jonesdavid1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in Toronto. Most of my days are spent wrangling messy datasets, optimizing SQL queries, and building analytical pipelines that don't fall over.
 
-Here are some ideas to get you started:
+#### What I'm into:
+- 📊 Turning ugly CSVs into clean, actionable reports.
+- 🦆 Tinkering with DuckDB for fast local analytical workflows.
+- 🐍 Automating repetitive data tasks with Python scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Drivers:
+`Python` • `Pandas` • `NumPy` • `DuckDB` • `PostgreSQL` • `Jupyter` • `Git`
+
+#### Connect:
+- LinkedIn: [linkedin.com/in/david-jones-data](https://linkedin.com)
+- Email: `jonesdavid1614@gmail.com`
